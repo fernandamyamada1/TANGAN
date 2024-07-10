@@ -10,7 +10,9 @@ While humans show remarkable proficiency in solving visual puzzles, machines oft
 
 TANGAN leverages deep learning to solve Tangram puzzles by understanding the spatial relationships between pieces through training data exposure. This approach contrasts with previous methods that require direct instruction on geometric properties. The architecture and its components are illustrated in the image below:
 
-![TANGAN Architecture](path/to/your/image.png)
+
+![cover_image](https://github.com/fernandamyamada1/TANGAN/assets/20599223/1fb98c68-d633-42df-b7e6-8eadf9cb90ca)
+
 
 
 ## Dataset
