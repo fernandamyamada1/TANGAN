@@ -42,20 +42,22 @@ Requirements
 The necessary Python packages and their versions are listed in the requirements.txt file for easy installation.
 
 
-## Usage
+## Getting Started
 
-To use this repository, clone it to your local machine and follow the instructions:
+### Prerequisites
+Ensure you have the required dependencies installed by referring to the list provided in the requirements.txt file.
 
-```bash
-git clone https://github.com/yourusername/tangan.git
-cd tangan
-
-## Instalation
-
-Install the required dependencies:
-
-```bash
+```
 pip install -r requirements.txt
+```
+### Installation
+Clone the repository.
+
+```
+git clone https://github.com/fernandamyamada1/TANGAN.git
+cd TANGAN
+```
+
 
 
 
