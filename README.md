@@ -1,4 +1,4 @@
-# TANGAN: Solving Tangram Puzzles Using Generative Adversarial Network
+# TANGAN
 
 Welcome to the TANGAN Repository! This repository contains the supplementary material referenced in the technical paper "TANGAN: Solving Tangram Puzzles Using Generative Adversarial Network" presented at SIGGRAPH Asia 2024.
 
