@@ -24,15 +24,15 @@ The dataset included in this repository is the most extensive collection in the 
 
 The images are stored in grayscale with 512x512 pixels in size. The dataset includes patterns with holes, multiple regions, and unconstrained rotations.
 
-[Download Dataset](https://github.com/fernandamyamada1/TANGAN/dataset.zip)
+[Download Dataset](https://github.com/fernandamyamada1/TANGAN/tree/main/dataset.zip)
 
 
 ## Generated Solutions
 
 This repository includes generated solutions using TANGAN and the VAE-GAN approach proposed by [Yamada et al. 2024] for comparison.
 
-- [TANGAN Solutions](https://github.com/fernandamyamada1/TANGAN/solutions/tangan/)
-- [VAE-GAN Solutions](https://github.com/fernandamyamada1/TANGAN/solutions/vaegan/)
+- [TANGAN Solutions](https://github.com/fernandamyamada1/TANGAN/tree/main/solutions/tangan)
+- [VAE-GAN Solutions](https://github.com/fernandamyamada1/TANGAN/tree/main/solutions/vaegan)
 
 
 ## Getting Started
