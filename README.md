@@ -8,11 +8,14 @@ While humans show remarkable proficiency in solving visual puzzles, machines oft
 
 ## Proposed Architecture
 
-TANGAN leverages deep learning to solve Tangram puzzles by understanding the spatial relationships between pieces through training data exposure. This approach contrasts with previous methods that require direct instruction on geometric properties. The architecture and its components are illustrated in the image below:
+TANGAN uses deep learning to solve Tangram puzzles by understanding the spatial relationships between pieces through training data exposure. This approach contrasts with previous methods that require direct instruction on geometric properties. The architecture and its components are illustrated in the image below:
 
 
 ![cover_image](https://github.com/fernandamyamada1/TANGAN/assets/20599223/1fb98c68-d633-42df-b7e6-8eadf9cb90ca)
 
+A demonstration video shows the strategy used by TANGAN to solve different Tangram puzzles:
+
+[Watch Video](https://github.com/fernandamyamada1/TANGAN/tree/main/final_video.mov)
 
 
 
@@ -24,7 +27,7 @@ The dataset included in this repository is the most extensive collection in the 
 
 The images are stored in grayscale with 512x512 pixels in size. The dataset includes patterns with holes, multiple regions, and unconstrained rotations.
 
-[Download Dataset](https://github.com/fernandamyamada1/TANGAN/tree/main/dataset.zip)
+[Download Dataset](https://github.com/fernandamyamada1/TANGAN/tree/main/dataset/)
 
 
 ## Generated Solutions
