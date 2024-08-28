@@ -13,7 +13,11 @@ TANGAN uses deep learning to solve Tangram puzzles by understanding the spatial 
 
 ![cover_image](https://github.com/fernandamyamada1/TANGAN/assets/20599223/1fb98c68-d633-42df-b7e6-8eadf9cb90ca)
 
-A demonstration video shows the strategy used by TANGAN to solve different Tangram puzzles:
+The codes for the architecture and loss function are available.
+
+[Download Code](https://github.com/fernandamyamada1/TANGAN/blob/main/TANGAN.py)
+
+A demonstration video shows the strategy used by TANGAN to solve different Tangram puzzles.
 
 [Watch Video](https://github.com/fernandamyamada1/TANGAN/tree/main/final_video.mov)
 
