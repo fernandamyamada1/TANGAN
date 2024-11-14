@@ -19,7 +19,11 @@ The codes for the architecture and loss function are available.
 
 A demonstration video shows the strategy used by TANGAN to solve different Tangram puzzles.
 
-[Watch Video](https://github.com/fernandamyamada1/TANGAN/tree/main/final_video.mov)
+[Download Video](https://github.com/fernandamyamada1/TANGAN/tree/main/final_video.mov)
+
+
+
+https://github.com/user-attachments/assets/7bdfc37c-2c60-4b7a-91f6-db4d037001cb
 
 
 
