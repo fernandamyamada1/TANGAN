@@ -48,12 +48,6 @@ This repository includes generated solutions using TANGAN and the VAE-GAN approa
 
 ## Getting Started
 
-### Prerequisites
-Ensure you have the required dependencies installed by referring to the list provided in the requirements.txt file.
-
-```
-pip install -r requirements.txt
-```
 ### Installation
 Clone the repository.
 
@@ -61,6 +55,14 @@ Clone the repository.
 git clone https://github.com/fernandamyamada1/TANGAN.git
 cd TANGAN
 ```
+
+### Prerequisites
+We implemented TANGAN using Python 3.9. Ensure you have the required dependencies installed by referring to the list provided in the requirements.txt file.
+
+```
+pip install -r requirements.txt
+```
+
 
 
 
