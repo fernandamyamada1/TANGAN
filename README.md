@@ -15,11 +15,11 @@ TANGAN uses deep learning to solve Tangram puzzles by understanding the spatial 
 
 The generator architecture for TANGAN is presented below: 
 
-![generator](https://github.com/fernandamyamada1/TANGAN/blob/main/generator.png)
+![generator](https://github.com/fernandamyamada1/TANGAN/blob/main/generator_arch.png)
 
 The discriminator architecture for TANGAN is presented below: 
 
-![discriminator](https://github.com/fernandamyamada1/TANGAN/blob/main/discriminator.png)
+![discriminator](https://github.com/fernandamyamada1/TANGAN/blob/main/discriminator_arch.png)
 
 The codes for the architecture and loss function are available.
 
