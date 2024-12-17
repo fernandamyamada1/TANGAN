@@ -21,7 +21,7 @@ The discriminator architecture for TANGAN is presented below:
 
 ![discriminator](https://github.com/fernandamyamada1/TANGAN/blob/main/discriminator_arch.png)
 
-The codes for the architecture and loss function are available.
+The training code is available.
 
 [Download Code](https://github.com/fernandamyamada1/TANGAN/blob/main/TANGAN.py)
 
