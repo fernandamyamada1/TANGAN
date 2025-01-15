@@ -132,16 +132,12 @@ def tensor_threshold(x, tensor, t = 0.05):
     return combined_mask
     
 def hu_loss(y_true, y_pred):
+  
+    y_true= tf.divide(y_true, 255.0)
+    y_pred = tf.divide(y_pred, 255.0)
+
     sum = tf.constant(0, dtype=tf.float32)
     data = tf.stack([y_true, y_pred], axis=1)
-
-    mse = tf.keras.losses.MeanSquaredError()
-
-    mae = tf.keras.losses.MeanAbsoluteError()
-
-    bce = tf.keras.losses.BinaryCrossentropy(from_logits=True)
-
-    sum = tf.math.divide(tf.math.add(sum, wmae(y_true, y_pred)) * 0.5, batch)
 
     for i in data:
         pred = i[0]
