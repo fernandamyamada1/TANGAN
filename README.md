@@ -59,11 +59,11 @@ This repository includes generated solutions using TANGAN and the VAE-GAN approa
 
 The dataset for supplementary studies is available. When running tests on these datasets, substitute the variable tones in the training code for the values in the tones.txt file. 
 
-- [Download Supplementary Studies Dataset] (https://github.com/fernandamyamada1/TANGAN/tree/main/supplementary/dataset).
+- [Download Supplementary Studies Dataset](https://github.com/fernandamyamada1/TANGAN/tree/main/supplementary/dataset/).
   
 Generated solutions for the supplementary studies are also available.
 
-- [Supplementary Studies Solutions] (https://github.com/fernandamyamada1/TANGAN/tree/main/supplementary/solutions).
+- [Supplementary Studies Solutions](https://github.com/fernandamyamada1/TANGAN/tree/main/supplementary/solutions/).
 
 
 
