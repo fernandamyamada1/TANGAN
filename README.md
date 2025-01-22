@@ -53,6 +53,20 @@ This repository includes generated solutions using TANGAN and the VAE-GAN approa
 - [TANGAN Solutions](https://github.com/fernandamyamada1/TANGAN/tree/main/solutions/tangan)
 - [VAE-GAN Solutions](https://github.com/fernandamyamada1/TANGAN/tree/main/solutions/vaegan)
 
+## Supplementary Studies
+
+ In our supplementary studies, we evaluate the domain adaptability performance of TANGAN by testing its ability to solve other geometric puzzles: polyominoes and tesselations.
+
+The dataset for supplementary studies is available. When running tests on these datasets, substitute the variable tones in the training code for the values in the tones.txt file. 
+
+- [Download Supplementary Studies Dataset] (https://github.com/fernandamyamada1/TANGAN/tree/main/supplementary/dataset).
+  
+Generated solutions for the supplementary studies are also available.
+
+- [Supplementary Studies Solutions] (https://github.com/fernandamyamada1/TANGAN/tree/main/supplementary/solutions).
+
+
+
 
 ## Getting Started
 
