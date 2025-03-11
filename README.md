@@ -2,6 +2,17 @@
 
 Welcome to the TANGAN Repository! This repository contains the supplementary material referenced in the paper "TANGAN: Solving Tangram Puzzles Using Generative Adversarial Network".
 
+🚀 Exciting News! 🚀
+
+Our paper has been accepted for publication in [Applied Intelligence](https://doi.org/10.1007/s10489-025-06364-x)!
+
+💡 Title: "TANGAN: Solving Tangram Puzzles Using Generative Adversarial Network"
+
+📌 Authors: Fernanda Miyuki Yamada, Harlen Costa Batagelo, João Paulo Gois, Hiroki Takahashi
+
+📖 Journal: Applied Intelligence (Springer)
+
+
 ## Abstract
 
 While humans show remarkable proficiency in solving visual puzzles, machines often fall short due to the complex combinatorial nature of such tasks. Consequently, there is a growing interest in developing computational methods for the automatic solution of different puzzles, especially through deep learning approaches. The Tangram, an ancient Chinese puzzle, challenges players to arrange seven polygonal pieces to construct different patterns. Despite its apparent simplicity, solving the Tangram is considered an NP-complete problem, being a challenge even for the most sophisticated algorithms. Moreover, ensuring the generality and adaptability of machine learning models across different Tangram arrangements and complexities is an ongoing research problem. In this paper, we introduce a generative model specifically designed to solve the Tangram. Our model competes favorably with previous methods regarding accuracy while delivering fast inferences. It incorporates a novel loss function that integrates pixel-based information with geometric features, promoting a deeper understanding of the spatial relationships between pieces. Unlike previous approaches, our model takes advantage of the geometric properties of the Tangram to formulate a solving strategy, exploiting its inherent properties only through exposure to training data rather than through direct instruction. Extending the proposed loss function, we present a novel evaluation metric as a better fitting measure for assessing Tangram solutions than previous metrics. We further provide a new dataset containing more samples than others reported in the literature. Our findings highlight the potential of deep learning approaches in geometric problem domains.
@@ -85,7 +96,20 @@ We implemented TANGAN using Python 3.9. Ensure you have the required dependencie
 pip install -r requirements.txt
 ```
 
+## Citation
 
 
+If you use this repository, please cite:
 
 
+```bibtex
+@article{yamada2025tangan,
+  title={TANGAN: solving Tangram puzzles using generative adversarial network},
+  author={Yamada, Fernanda Miyuki and Batagelo, Harlen Costa and Gois, Jo{\~a}o Paulo and Takahashi, Hiroki},
+  journal={Applied Intelligence},
+  volume={55},
+  number={6},
+  pages={1--27},
+  year={2025},
+  publisher={Springer}
+}
